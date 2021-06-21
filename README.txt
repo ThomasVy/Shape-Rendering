@@ -1,5 +1,4 @@
-CPSC 453 Assignment 1
-Thomas Vy 30000789
+Thomas Vy
 
 How to compile and run-
 Cmake and Visual Studio 2019 compiler; I used the same tools as in the Windows 10 tutorial on D2L.
